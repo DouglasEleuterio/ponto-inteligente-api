@@ -60,7 +60,7 @@
 			<artifactId>h2</artifactId>
 		</dependency>
 		<!--/// Fim MySQL, H2 e JPA -->
-		
+
 		<!-- Spring Security -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -71,7 +71,15 @@
 			<artifactId>spring-security-test</artifactId>
 		</dependency>
 		<!--// Spring Security -->
-
+		<!-- Hibernate Validador -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-validation</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
 	</dependencies>
 
 
