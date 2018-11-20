@@ -1,7 +1,7 @@
 package com.eleuterio.pontointeligente.api.enums;
 
 public enum TipoEnum {
-	INICIO_TABALHO,
+	INICIO_TRABALHO,
 	TERMINO_TRABALHO,
 	INICIO_ALMOCO,
 	TERMINO_ALMOCO,
